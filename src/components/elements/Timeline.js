@@ -39,8 +39,8 @@ function Timeline() {
                       month: "long",
                       year: "numeric"
                     })}
-                    company={item.company}
                     position={item.position}
+                    company={item.company}
                     summary={item.summary}
                     summary_2={item.summary_2}
                     highlights={item.highlights}

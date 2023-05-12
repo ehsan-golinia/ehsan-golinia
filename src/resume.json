@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Ehsan Golinia",
-    "label": "Artificial Intelligence Engineer",
+    "label": "Computer Vision Engineer",
     "picture": "images/ehsan.webp",
     "x_pictureFallback": "images/ehsan.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 7 years of experience in Engineering. Currently I’m working as a developer exploring the AI world. I’m interested in AI, ML, DL, NLP.",
+    "summary": "Going on 9 years of experience in Engineering. Currently I’m researching in AI world. I’m interested in Image Processing , Deep Learning , Computer Vision.",
     "location": {
       "country": "Iran",
       "countryCode": "IR",
@@ -28,24 +28,32 @@
   },
   "work": [
     {
-      "company": "Freelance",
+      "position": "Researcher",
+      "company": "Islamic Azad University , South Tehran Branch",
+      "startDate": "2020-09-22",
+      "endDate": "2024",
+      "summary": "Image Classification",
+      "highlights": ["Object Detection"]
+    },
+    {
       "position": "Web Developer",
+      "company": "Freelance",
       "startDate": "2019-09-22",
       "endDate": "2020-09-22",
       "summary": "Front-End : HTML , CSS , Bootstrap",
       "highlights": ["Back-End : Nodejs , PHP"]
     },
     {
-      "company": "Kimiyagar Qaem, Tehran, Iran",
       "position": "Summer Intern",
+      "company": "Kimiyagar Qaem, Tehran, Iran",
       "startDate": "2017-06-22",
       "endDate": "2017-09-22",
       "summary": "My first real work experience.",
       "highlights": ["Interning as an civil engineer on construction project."]
     },
     {
+      "position": "Teaching Assistant",
       "company": "University of Mazandaran, Mazandaran, Iran",
-      "position": "Volunteer Teaching Assistant",
       "startDate": "2016-02-13",
       "endDate": "2016-06-15",
       "summary": "Grading, project design, exam design, and holding tutorial sessions :",
@@ -70,32 +78,32 @@
   "skills": [
     {
       "name": "Web Scraping",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
     {
       "name": "Data Cleaning",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
     {
       "name": "Data Wrangling",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
     {
       "name": "Data Exploration",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
     {
       "name": "Data Visualization",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
     {
       "name": "Modeling and Prediction",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Data Science"]
     },
 
@@ -116,7 +124,7 @@
     },
     {
       "name": "PCA",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["ML"]
     },
     {
@@ -140,14 +148,9 @@
       "keywords": ["ML"]
     },
 
-
-
-
-
-
     {
-      "name": "ANN",
-      "level": "Intermediate",
+      "name": "MLP",
+      "level": "Advanced",
       "keywords": ["DL"]
     },
     {
@@ -157,84 +160,69 @@
     },
     {
       "name": "RNN",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["DL"]
     },
     {
       "name": "GRU",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["DL"]
     },
     {
       "name": "LSTM",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["DL"]
     },
     {
       "name": "Transformers",
-      "level": "Intermediate",
+      "level": "Learning",
       "keywords": ["DL"]
     },
 
-
-
-
-
-
     {
       "name": "Python",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": ["Programming Languages"]
     },
     {
       "name": "C",
-      "level": "Intermediate",
+      "level": "Learning",
       "keywords": ["Programming Languages"]
     },
     {
       "name": "C++",
-      "level": "Intermediate",
+      "level": "Learning",
       "keywords": ["Programming Languages"]
     },
     {
       "name": "Matlab",
-      "level": "Intermediate",
+      "level": "Learning",
       "keywords": ["Programming Languages"]
     },
-    {
-      "name": "JavaScript",
-      "level": "Basic",
-      "keywords": ["Programming Languages"]
-    },
-
-
-
-
-
 
     {
       "name": "Numpy , Pandas , Matplotlib",
-      "level": "Advanced",
+      "level": "Intermediate",
       "keywords": ["Packages"]
     },
     {
       "name": "Scikit-Learn",
-      "level": "Intermediate",
-      "keywords": ["Packages"]
-    },
-    {
-      "name": "TensorFlow",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Packages"]
     },
     {
       "name": "PyTorch",
-      "level": "Intermediate",
+      "level": "Basic",
+      "keywords": ["Packages"]
+    },
+    {
+      "name": "TensorFlow",
+      "level": "Learning",
       "keywords": ["Packages"]
     },
     {
       "name": "Keras",
-      "level": "Intermediate",
+      "level": "Learning",
       "keywords": ["Packages"]
     },
 
@@ -244,13 +232,8 @@
 
 
     {
-      "name": "OOP",
-      "level": "Advanced",
-      "keywords": ["Software Developer"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
+      "name": "Linux",
+      "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
@@ -259,13 +242,18 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Git",
+      "name": "Git/Github",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
     {
+      "name": "MySQL",
+      "level": "Basic",
+      "keywords": ["Software Developer"]
+    },
+    {
       "name": "MongoDB",
-      "level": "Intermediate",
+      "level": "Basic",
       "keywords": ["Software Developer"]
     },
 
@@ -276,16 +264,11 @@
 
     {
       "name": "Essentials",
-      "level": "Advanced",
-      "keywords": ["Linux"]
-    },
-    {
-      "name": "LPIC-1",
       "level": "Intermediate",
       "keywords": ["Linux"]
     },
     {
-      "name": "LPIC-2",
+      "name": "LPIC-1",
       "level": "Intermediate",
       "keywords": ["Linux"]
     }

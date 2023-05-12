@@ -146,26 +146,8 @@ function Skills() {
             />
           </div>
         </div>
-        <ColoredLine color="#A9A9A9" />
+        {/* <ColoredLine color="#A9A9A9" /> */}
         <br></br>
-        <div className="columns">
-        <div className="column is-4 mb-6">
-            <div className="has-text-centered">
-              <span className="icon has-text-link">
-                <i className="fab fa-3x fa-linux"></i>
-              </span>
-              <h2 className="title is-5">Linux</h2>
-            </div>
-            <SkillsList
-              skills={Resume.skills
-                .filter(skill => skill.keywords.includes("Linux"))
-                .reduce((obj, item) => {
-                  obj[item.name] = item.level;
-                  return obj;
-                }, {})}
-            />
-          </div>
-        </div>
       </div>
     </section>
   );

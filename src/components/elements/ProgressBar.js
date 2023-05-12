@@ -2,8 +2,9 @@ import React from "react";
 
 var progress = {
   Advanced: 100,
-  Intermediate: 66,
-  Basic: 33
+  Intermediate: 75,
+  Basic: 50,
+  Learning: 25
 };
 
 function ProgressBar(props) {
