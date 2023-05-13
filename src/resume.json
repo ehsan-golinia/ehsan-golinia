@@ -206,6 +206,11 @@
       "keywords": ["Packages"]
     },
     {
+      "name": "OpenCV",
+      "level": "Intermediate",
+      "keywords": ["Packages"]
+    },
+    {
       "name": "Scikit-Learn",
       "level": "Basic",
       "keywords": ["Packages"]
@@ -216,12 +221,7 @@
       "keywords": ["Packages"]
     },
     {
-      "name": "TensorFlow",
-      "level": "Learning",
-      "keywords": ["Packages"]
-    },
-    {
-      "name": "Keras",
+      "name": "TensorFlow , Keras",
       "level": "Learning",
       "keywords": ["Packages"]
     },
@@ -242,7 +242,7 @@
       "keywords": ["Software Developer"]
     },
     {
-      "name": "Git/Github",
+      "name": "Git , Github",
       "level": "Intermediate",
       "keywords": ["Software Developer"]
     },
