@@ -17,22 +17,6 @@ function Skills() {
       <div className="container">
         <h1 className="title">Skills</h1>
         <div className="columns">
-          <div className="column is-4 mb-6">
-            <div className="has-text-centered">
-              <span className="icon has-text-link">
-                <i className="fas fa-3x fa-chart-pie"></i>
-              </span>
-              <h2 className="title is-5">Data Science</h2>
-            </div>
-            <SkillsList
-              skills={Resume.skills
-                .filter(skill => skill.keywords.includes("Data Science"))
-                .reduce((obj, item) => {
-                  obj[item.name] = item.level;
-                  return obj;
-                }, {})}
-            />
-          </div>
 
 
           <div className="column is-4 mb-6">
@@ -79,6 +63,33 @@ function Skills() {
                 }, {})}
             />
           </div>
+
+
+
+          <div className="column is-4 mb-6">
+            <div className="has-text-centered">
+              <span className="icon has-text-link">
+                <i className="fas fa-3x fa-low-vision"></i>
+              </span>
+              <h2 className="title is-5">Computer Vision</h2>
+            </div>
+            <SkillsList
+              skills={Resume.skills
+                .filter(skill => skill.keywords.includes("CV"))
+                .reduce((obj, item) => {
+                  obj[item.name] = item.level;
+                  return obj;
+                }, {})}
+            />
+          </div>
+
+
+
+
+
+
+
+
         </div>
         <ColoredLine color="#A9A9A9" />
         <br></br>

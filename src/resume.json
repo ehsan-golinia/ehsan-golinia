@@ -77,34 +77,34 @@
   ],
   "skills": [
     {
-      "name": "Web Scraping",
+      "name": "Feature Extraction",
       "level": "Basic",
-      "keywords": ["Data Science"]
+      "keywords": ["CV"]
     },
     {
-      "name": "Data Cleaning",
+      "name": "Image Classification",
       "level": "Basic",
-      "keywords": ["Data Science"]
+      "keywords": ["CV"]
     },
     {
-      "name": "Data Wrangling",
+      "name": "Object Detection",
       "level": "Basic",
-      "keywords": ["Data Science"]
+      "keywords": ["CV"]
     },
     {
-      "name": "Data Exploration",
+      "name": "Image Segmentation",
       "level": "Basic",
-      "keywords": ["Data Science"]
+      "keywords": ["CV"]
     },
     {
-      "name": "Data Visualization",
+      "name": "Object Tracking",
       "level": "Basic",
-      "keywords": ["Data Science"]
+      "keywords": ["CV"]
     },
     {
-      "name": "Modeling and Prediction",
-      "level": "Basic",
-      "keywords": ["Data Science"]
+      "name": "GANs",
+      "level": "Learning",
+      "keywords": ["CV"]
     },
 
 
