@@ -25,9 +25,9 @@
 
 ## GitHub Stats 💯
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-golinia&show_icons=true&locale=en&layout=compact" alt="ehsan-golinia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ehsan-golinia&show_icons=true&locale=en&layout=demo&theme=dark" alt="ehsan-golinia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsan-golinia&show_icons=true&locale=en" alt="ehsan-golinia" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehsan-golinia&show_icons=true&locale=en&theme=dark" alt="ehsan-golinia" /></p>
 
 ## Consistency is key ✨
 
