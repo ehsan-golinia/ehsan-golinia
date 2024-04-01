@@ -34,7 +34,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ehsan-golinia&" alt="ehsan-golinia" /></p>
 
 ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
-
-#
-
-![footer]()
